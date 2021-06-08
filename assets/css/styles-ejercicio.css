@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(223, 223, 223);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    
+}
+h2 {
+    background-color: rgb(146, 151, 156);
+    margin: 50px;
+}
+p {
+    margin-left: 300px;
+    margin-right: 200px;
+}
+img {
+    width: 200px;
+}
