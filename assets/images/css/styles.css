@@ -1,0 +1,8 @@
+/* El style basico va dentro de head
+1.- se define el texto al que le agregaremos el estilo
+*Color; *Text-align se usa para alinear; */
+
+h1 {
+    color:tomato; 
+    text-align: center;  
+}
