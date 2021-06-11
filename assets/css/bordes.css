@@ -1,0 +1,58 @@
+.caja {
+    width: 400px;
+    height: 400px;
+}
+
+.uno {
+    background-color: rgba(235, 235, 18, 0.664);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.dos {
+    background-color: rgba(0, 128, 0, 0.507);
+}
+
+/* EJERCICIO */
+
+.color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgb(70, 70, 70);
+    margin: 28px;
+    width: 400px;
+    height: 150px;
+    font-size: 50px;
+}
+
+.a {
+    border-bottom-right-radius: 150px;
+}
+
+.b {
+    border-bottom-right-radius: 80px;
+}
+
+.c {
+    border-bottom-right-radius: 50px;
+}
+
+.d {
+    border-radius: 80px 200px 80px 200px;
+}
+
+.e {
+    border-radius: 50px 50px 50px 50px;
+}
+
+.f {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
